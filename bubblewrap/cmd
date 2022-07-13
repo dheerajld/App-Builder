@@ -1,1 +1,2 @@
 
+bubblewrap update <manifesturl>  --skipSigning --skipVersionUpgrade --ignore && bubblewrap build --skipSigning --skipVersionUpgrade --ignore
